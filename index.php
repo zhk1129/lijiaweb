@@ -1,5 +1,5 @@
 <?php
-
+die;
 ob_start();
 ini_set('date.timezone', 'Asia/Shanghai');
 define('THINK_PATH', './Conist/');
